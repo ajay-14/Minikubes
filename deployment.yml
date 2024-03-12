@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: node-app
-        image: yourusername/node-app
+        image: ajay14/minikubes-nodeapp
         ports:
         - containerPort: 3000
